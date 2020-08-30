@@ -1,5 +1,5 @@
 // Globals
-var titles = ["Addy", "Hebou", "Saint", "Steph", "Producer", "Musician", "Artist", "Assistant", "Student", "Mentee"];
+var titles = ["Addy", "Hebou", "Saint", "Steph", "Producer", "Musician", "Artist", "Assistant", "Student"];
 var i = 0;
 var opacity = 0;
 var intervalID = 0;

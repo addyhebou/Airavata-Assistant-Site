@@ -18,6 +18,13 @@ a{
     text-decoration-style: none;
 }
 
+.airavataCard{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
 #appleholder{
     display: flex;
     margin: 0px 0px;
